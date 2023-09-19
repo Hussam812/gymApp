@@ -7,3 +7,8 @@ export { default as HeroBanner } from "./HeroBanner";
 export { default as Exercises } from "./Exercises";
 export { default as HorizontalScrollBar } from "./HorizontalScrollBar";
 export { default as Bodypart } from "./Bodypart";
+export { default as ExerciseCard } from "./ExerciseCard";
+export { default as Details } from "./Details";
+export { default as ExerciseVideos } from "./ExerciseVideos";
+export { default as SimilarExercises } from "./SimilarExercises";
+export { default as Loader } from "./Loader";
